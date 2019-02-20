@@ -1,0 +1,38 @@
+<pages>
+ <link>
+ <title>About us</title>
+ <url>about.php</url>
+ </link>
+ <link>
+ <title>Current Facts and Statistics</title>
+ <url>about.php#current_facts</url>
+ </link>
+ <link>
+ <title>The Skill to Heal</title>
+ <url>about.php#skill_to_heal</url>
+ </link>
+ <link>
+ <title>History and Organization</title>
+ <url>History_Organization.php</url>
+ </link>
+ <link>
+ <title>Our Mission</title>
+ <url>mission.php</url>
+ </link>
+ <link>
+ <title>Privacy Policy</title>
+ <url>privacy.php</url>
+ </link>
+ <link>
+ <title>Information We Receive</title>
+ <url>privacy.php#information</url>
+ </link>
+ <link>
+ 	<title>Cookies and Web Beacons</title>
+ 	<url>privacy.php#cookie</url>
+ </link>
+ <link>
+ 	<title>Visiting Time</title>
+ 	<url>Visiting.php</url>
+ </link>
+</pages>

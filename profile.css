@@ -1,0 +1,233 @@
+	.pattern{
+	width: 1350px;
+	height: 1000px;
+	}
+
+		.profile{
+	height: 800px;
+	width:1150px;
+	background-color: white;
+	margin-left: 100px;
+	border: 3px dashed #AEC958; 
+
+}
+.edit{
+	height: 40px; width: 100px;
+	margin-top: 10px;
+	background-color: #0fcc99; color: white; font-size: 20px;
+	border: none; border-radius: 4px;
+
+}
+.edit:hover{
+	height: 45px; width: 105px; border-radius: 6px; font-size: 25px;
+}
+.profile_table {
+	height: 500px;
+	width: 700px;
+	float: left;
+	margin-left:90px;
+	font-size: 20px;
+
+}
+.profile_table table{
+	height: 500px; width: 550px;
+}
+.profile_table table td{
+	padding-left: 10px;
+	margin: 10px;
+	
+}
+.profile_table button{
+	width: 150px; height: 40px; background-color: #007644; color: white; font-size: 20px; border: none;
+	border-radius: 4px;
+}
+.profile_table button:hover
+{
+	background-color: #007644;
+}
+.profile_table table td button{
+	width: 100%;
+	height: 101%;
+	margin-left: -5px;border:none; background-color: #f2f2f2;
+}
+.profile_table table td button:hover{
+
+	background-color: #0fcc99; color: white
+}
+.profile_table table tr:hover{
+	background-color: #00cc99;
+	color: white;
+	height: 90px; font-size: 22px;
+	
+}
+.profile_table table tr:nth-child(even) {background-color: #f2f2f2;}
+.profile_table table tr:nth-child(even):hover {background-color: #0fcc99};
+
+
+.links{
+	float: right;
+	
+}
+.links a {
+	text-decoration: none;
+}
+.links a div{
+	height: 50px;
+	width: 250px;
+	border-left: 5px solid #006644;
+	margin-right: 20px;
+	margin-top: 20px;
+	background-color: #99ffdd; color: #003322;
+	padding-left: 5px;
+	font-size: 25px;
+	padding-top: 12px;
+}
+
+
+.links .a{
+	height: 50px;
+	width: 250px;
+	border-left: 5px solid #006644;
+	margin-right: 20px;
+	margin-top: 20px;
+	background-color: #99ffdd; color: #003322;
+	padding-left: 5px;
+	font-size: 25px;
+	padding-top: 12px;
+
+}
+.links .a img{
+	height: 38px;
+	width: 38px; float: right;  margin-bottom: 12px;
+}
+.links a div img{
+	height: 38px;
+	width: 38px; float: right;  margin-bottom: 12px;
+}
+.links .a input{
+	border: none; background-color: #99ffdd; color: #003322;
+	font-size: 25px;
+}
+.links a div img:hover{
+	height: 50px; width: 50px; margin-bottom: 25px;
+}
+.links a div:hover{
+	background-color: #00b377;
+	color: white;
+	font-size: 30px;
+	width: 280px;
+	height: 80px;
+	padding-top: 30px;
+}
+.links .a img:hover{
+	height: 50px; width: 50px; margin-bottom: 25px;
+}
+.links .a:hover{
+	
+	color: white;
+	font-size: 30px;
+	width: 280px;
+	height: 80px;
+	padding-top: 30px;
+}
+.edit_box_back{
+	display: none;
+	height: 100%;
+	width: 100%;
+	position: fixed;
+	z-index: 1;
+	padding-top: 0px;
+	overflow: auto;
+	background-color: rgb(0,0,0); 
+	background-color: rgba(0,0,0,0.4); 
+	left: 0; top: 0;
+}
+.close{height:50px; width: 50px; border-radius: 20px; margin-right: 100px;
+	border:none;float: right; background-color: red; color: white; font-size: 30px;
+margin-top:50px;}
+.img_div_male{
+	height: 100px; 
+	width: 100px;
+	border:none;
+	border-radius: 100px;
+	margin-left: 90px;
+	background-image: url('man.png');
+	background-size: cover;
+	position: relative;
+}
+.img_div_female{
+	height: 100px; 
+	width: 100px;
+	border:none;
+	border-radius: 100px;
+	margin-left: 90px;
+	background-image: url('girl.png');
+	background-size: cover;
+	position: relative;
+	
+}
+.links{
+	float: right;
+	
+}
+	.edit_box{
+		height: 500px;
+		width: 700px;
+		background-color: white;
+		margin-left: auto; margin-right: auto;
+		margin-top:40px; padding-top: 20px;
+	}
+.edit_box table{
+	height:420px;
+	width: 90%;
+}
+.edit_box table th{
+	font-size: 20px;
+}
+.edit_box table td input{
+	width: 90%;
+	height: 100%;border: none;
+	border-bottom: 1px solid   #008080;
+	padding-left: 10px;
+	font-size: 20px;
+
+}
+.edit_box table td input[type=radio]{
+	height: 15px; width: 15px;margin-left:  12px;
+}
+.edit_box table td{
+	font-size: 20px;
+	padding-left: 20px;
+
+}
+.insert_emp_box form{
+	height: 450px;
+	width: 400px;
+	background-color: aliceblue;
+}
+.image_div{
+	height: 100px; 
+	width: 100px;
+	border:none;
+	border-radius: 100px;
+	margin-left: 90px;
+	position: relative;
+}
+.image_div img{
+	height: 100px;
+	width: 100px;
+	border-radius: 100px;
+}
+
+.imagefile input{
+	width: 250px;
+	height: 40px;
+	background-color: #008080;
+	color: white;
+	font-size: 20px;
+}
+.imagefile input[type=file]{
+	width: 500px;
+	background-color: white;
+	color: black
+}

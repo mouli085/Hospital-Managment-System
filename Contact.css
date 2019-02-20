@@ -1,0 +1,49 @@
+.body{
+	width: 1350px; height: 700px;
+	background-image: url(physician.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+
+}
+.main
+{
+	float: right;
+	margin-right: 20px;
+	margin-top: 50px;
+	width: 800px;
+	height: 560px;
+	background-color: #85adad;
+	opacity: .8;
+	border: 8px solid #527a7a;
+	border-radius: 18px;
+}
+	.Reason{
+	width: 80%;
+	margin-left: 20px;
+	height: 40px;
+	border-bottom: 2px dashed #293d3d;
+	color:white;
+	background-color: #85adad;
+	font-size: 25px;
+	padding-top: 15px;
+	padding-left: 20px;
+}
+.Reason:hover{
+	background-color:#b3cccc;
+	color: black;
+}
+.call{
+	width: 180px;
+	height:150px;
+	background-color:#006666;
+	margin: 20px;
+	color: white;
+	padding-left: 40px;
+	border-radius: 10px;
+	border:2px  solid #004d4d;
+}
+.call:hover{
+	background-color: #009999;
+
+}

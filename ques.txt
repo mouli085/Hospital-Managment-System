@@ -1,0 +1,39 @@
+<div class="q"># What information do I need to bring with me to the Hospital?</div>
+			<div class="a">Ans: Patients should bring the following information when registering:
+				<ul>
+					<li>Insurance Card</li>
+					<li>Medicare/Medicaid card</li>
+
+					<li>Name and Social Security Number of insured</li>
+					<li>Referral forms from your physician (if required by your insurance carrier)</li>
+					<li>Referral/Order Guidelines</li>
+					<li>Workers compensation information (if applicable)</li>
+					<li>Drivers license</li>
+					<li>Co-pay or deductible</li>
+					<li>Pre-admission form (if not previously submitted)</li>
+					<li>Advance Directive</li>
+				</ul>
+			</div>
+			<div class="q">Q.
+
+			If I need medical attention but cannot afford to pay for it, what can I do?</div>
+			<div class="a">	
+				A.
+
+				No one is turned away from HCGH needing emergent/emergency care because of inability to pay. We direct patients to the Financial Counselors located in the Admitting Department who will work with you to develop a payment plan, help you apply for Medical Assistance or, if you qualify, arrange for free care.
+			</div>
+			<div class="q">Q.
+
+Where do I go to donate blood (either for my forthcoming operation or for a sick relative)?</div>
+			<div class="a">A.
+
+Call the local American Red Cross at 1-800-452-5663 to arrange for such a donation. Any donations can be designated for you or for the Hospital at the time of giving.</div>
+<div class="q">Q.
+
+Can I fill out any of the required paperwork before I get to the hospital?</div>
+
+<div class="a">
+A.
+Yes. To view all hospital forms that are available on this web site that may be printed and completed in advance of your visit, go to the Hospital Forms section of this web site by clicking here.</div>
+
+		<div class="q"><?php echo $_SESSION['ques'];  ?></div>	
